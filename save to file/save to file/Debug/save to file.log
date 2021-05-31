@@ -1,0 +1,4 @@
+﻿  save to file.cpp
+C:\Users\Lucas\Desktop\C++ project location\save-file-to-file\save to file\save to file\save to file.cpp(12,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lucas\Desktop\C++ project location\save-file-to-file\save to file\save to file\save to file.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  save to file.vcxproj -> C:\Users\Lucas\Desktop\C++ project location\save-file-to-file\save to file\Debug\save to file.exe
